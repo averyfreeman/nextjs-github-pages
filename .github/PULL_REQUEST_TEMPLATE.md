@@ -1,15 +1,21 @@
-# PR Title
+# PR Synopsis
 
-Closes <!-- github ticket number, e.g., #32 -->
+What's your one-sentence thesis for submitting this PR? <!-- be succinct. Include github ticket number, e.g. #32 -->
 
-## Description
+## Description of Submittal
 
-Please describe what did you built or fixed?
+Elaborate on what you are submitting and what it does exactly (few sentences tops)
 
 ## Screenshot
 
-Could you please drop a screenshot of your feature or fix?
+(Required)
 
-## Steps to Verify
+## Bugfix: 
 
-Please walk through how to verify and test this feature or fix.
+Steps to reproduce (bulleted) 
+
+## Feature: 
+
+Instructions for how to use (bulleted)
+
+## Additional notes:
